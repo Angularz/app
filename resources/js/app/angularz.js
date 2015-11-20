@@ -7,6 +7,7 @@
 
 	var example = {
 		newTest: 'teste',
+    	active: true,
 		name: 'Nome teste 1',
 		id: '12',
 		email: 'ricardo@examplo.com'
